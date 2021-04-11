@@ -1,0 +1,3 @@
+﻿  Quelle.cpp
+C:\Users\walte\source\repos\Tetris\Tetris\Quelle.cpp(95,7): warning C4804: ">=": unsichere Verwendung des Typs "bool" in einer Operation
+  Tetris.vcxproj -> C:\Users\walte\source\repos\Tetris\Debug\Tetris.exe
