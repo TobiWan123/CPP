@@ -1,0 +1,5 @@
+﻿  hotels.cpp
+C:\Users\walte\source\repos\hotels\hotels\hotels.cpp(41,18): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\walte\source\repos\hotels\hotels\hotels.cpp(43,31): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\walte\source\repos\hotels\hotels\hotels.cpp(44,31): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  hotels.vcxproj -> C:\Users\walte\source\repos\hotels\Debug\hotels.exe
