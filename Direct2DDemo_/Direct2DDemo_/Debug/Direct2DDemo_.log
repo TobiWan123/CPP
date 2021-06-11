@@ -1,0 +1,5 @@
+﻿  Direct2DDemo_.cpp
+  Graphic.cpp
+  Code wird generiert...
+C:\Users\walte\source\repos\Direct2DDemo_\Direct2DDemo_\Graphic.cpp(26): warning C4715: "Graphic::init": Nicht alle Codepfade geben einen Wert zurück.
+  Direct2DDemo_.vcxproj -> C:\Users\walte\source\repos\Direct2DDemo_\Debug\Direct2DDemo_.exe
